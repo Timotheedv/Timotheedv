@@ -1,18 +1,12 @@
-
+<head>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
 # 😁 Bonjour, bienvenue sur ma page Github
  *Je m'appelle Timothée de Vasselot j'ai 20 ans et je suis etudiant à l'IIM en developpement web*
 
 <div class= "img-iim">
 <div class= "iim">
-<img src="Images\iim.jpg" alt="html logo" width="150" height="145"> 
-
-<style>
-    .img-iim{
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
-    </style>
+<img src="Images\iim.jpg" alt="iim logo" width="150" height="145"> 
 </div>
 </div>
 
