@@ -6,14 +6,14 @@
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-<div style="text-align:center;">
+<div align="center">
 
 # 😁 Bonjour, bienvenue sur ma page Github
 *Je m'appelle Timothée de Vasselot j'ai 20 ans et je suis étudiant à l'IIM en développement web*
 
 <div class="img-iim">
     <div class="iim">
-        <img src="Images/iim.jpg" alt="html logo" width="150" height="145"> 
+        <img src="Images/IIM.jpg" alt="html logo" width="150" height="145"> 
     </div>
 </div>
 
@@ -55,7 +55,7 @@ Je suis quelqu'un d'assez curieux et profite souvent de mon temps libre pour tes
 </table>
 </div>
 </div>
-
+</div>
 
 ## 💬 Phrase inspirante
 >"Il ne faut pas s'installer dans sa vérité et vouloir l'asséner comme une certitude, mais savoir l'offrir en tremblant comme un mystère"
