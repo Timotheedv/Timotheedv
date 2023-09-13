@@ -6,7 +6,7 @@
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-<center>
+<div style="text-align:center;">
 
 # 😁 Bonjour, bienvenue sur ma page Github
 *Je m'appelle Timothée de Vasselot j'ai 20 ans et je suis étudiant à l'IIM en développement web*
@@ -54,10 +54,14 @@ Je suis quelqu'un d'assez curieux et profite souvent de mon temps libre pour tes
     </tr>
 </table>
 </div>
+</div>
+
 
 ## 💬 Phrase inspirante
 >"Il ne faut pas s'installer dans sa vérité et vouloir l'asséner comme une certitude, mais savoir l'offrir en tremblant comme un mystère"
 >*Hélie de Saint-Marc*
+
+
 
 ## Réseaux
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timoth%C3%A9e-de-vasselot-26217624b/)
