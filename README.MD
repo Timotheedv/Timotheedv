@@ -6,6 +6,7 @@
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
+<center>
 
 # 😁 Bonjour, bienvenue sur ma page Github
 *Je m'appelle Timothée de Vasselot j'ai 20 ans et je suis étudiant à l'IIM en développement web*
@@ -35,20 +36,23 @@ Je suis quelqu'un d'assez curieux et profite souvent de mon temps libre pour tes
 </div>
 
 ## 👨‍💻 Langues pratiquées
-
+<table>
+<tr>
 <div class="languages">
-    <div class="html">
+   <td> <div class="html">
         <img src="Images/html.jpg" alt="html logo" width="50" height="45"> 
-    </div>
-    <div class="css">
+    </div></td>
+    <td><div class="css">
         <img src="Images/CSS.png" alt="css logo" width="50" height="45"> 
-    </div>
-    <div class="js">
+    </div></td>
+    <td><div class="js">
         <img src="Images/JavaScript.png" alt="javascript logo" width="50" height="45"> 
-    </div>
-    <div class="php">
+    </div></td>
+    <td><div class="php">
         <img src="Images/php.png" alt="php logo" width="50" height="45"> 
-    </div>
+    </div></td>
+    </tr>
+</table>
 </div>
 
 ## 💬 Phrase inspirante
@@ -57,6 +61,8 @@ Je suis quelqu'un d'assez curieux et profite souvent de mon temps libre pour tes
 
 ## Réseaux
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timoth%C3%A9e-de-vasselot-26217624b/)
+
+
 
 </body>
 </html>
