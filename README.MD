@@ -61,11 +61,13 @@ Je suis quelqu'un d'assez curieux et profite souvent de mon temps libre pour tes
 >"Il ne faut pas s'installer dans sa vérité et vouloir l'asséner comme une certitude, mais savoir l'offrir en tremblant comme un mystère"
 >*Hélie de Saint-Marc*
 
-## Objectifs
-- [] Devenir compétent en CSS
-- [] Devenir competent en PHP
-- [] Devenir compétent en Javascript/MySQL
-- [] Devenir "Opérationnel" avant fin Mars
+
+|  Objectifs |
+| -------------- |
+| - [] Devenir compétent en CSS
+| - [] Devenir competent en PHP
+| - [] Devenir compétent en Javascript/MySQL
+| - [] Devenir "Opérationnel" avant fin Mars |
 
 ## Réseaux
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timoth%C3%A9e-de-vasselot-26217624b/)
@@ -74,3 +76,4 @@ Je suis quelqu'un d'assez curieux et profite souvent de mon temps libre pour tes
 
 </body>
 </html>
+
