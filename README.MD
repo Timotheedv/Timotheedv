@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
 <div align="center">
@@ -64,10 +63,10 @@ Je suis quelqu'un d'assez curieux et profite souvent de mon temps libre pour tes
 
 |  Objectifs |
 | -------------- |
-| - [] Devenir compétent en CSS
-| - [] Devenir competent en PHP
-| - [] Devenir compétent en Javascript/MySQL
-| - [] Devenir "Opérationnel" avant fin Mars |
+| - Devenir compétent en CSS
+| - Devenir competent en PHP
+| - Devenir compétent en Javascript/MySQL
+| - Devenir "Opérationnel" avant fin Mars |
 
 ## Réseaux
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timoth%C3%A9e-de-vasselot-26217624b/)
